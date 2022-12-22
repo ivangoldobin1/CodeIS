@@ -1,0 +1,5 @@
+C:\Users\ivang\OneDrive\Рабочий стол\Новая папка\DNS-Shope.exe
+C:\Users\ivang\OneDrive\Рабочий стол\Новая папка\DNS-Shope.dll
+C:\Users\ivang\OneDrive\Рабочий стол\Новая папка\DNS-Shope.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\Новая папка\DNS-Shope.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\Новая папка\DNS-Shope.pdb
